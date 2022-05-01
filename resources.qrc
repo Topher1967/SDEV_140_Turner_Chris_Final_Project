@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>PyQt5_image.jpg</file>
+	<file>Python_Fun.jpg</file>
+	<file>Code_python.png</file>
+	<file>PyQt5_schema.webp</file>
+  </qresource>
+</RCC>
